@@ -1,0 +1,25 @@
+ * Serving Flask app 'main'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.178.24:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 118-631-406
+127.0.0.1 - - [22/Nov/2024 21:08:29] "POST /upload HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:08:29] "GET /images/image_page_1_img_1.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:08:29] "GET /images/image_page_2_img_1.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:08:31] "GET /images/image_page_2_img_1.png/download HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:10:57] "POST /upload HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:10:57] "GET /images/image_page_3_img_1.png HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:10:57] "GET /images/image_page_10_img_2.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:10:57] "GET /images/image_page_14_img_1.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:10:57] "GET /images/image_page_12_img_1.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:10:57] "GET /images/image_page_15_img_1.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:10:57] "GET /images/image_page_15_img_2.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:10:57] "GET /images/image_page_10_img_1.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:10:57] "GET /images/image_page_17_img_1.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:10:57] "GET /images/image_page_17_img_2.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [22/Nov/2024 21:11:00] "GET /images/image_page_3_img_1.png/download HTTP/1.1" 200 -
